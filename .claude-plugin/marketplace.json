@@ -10,7 +10,7 @@
       "name": "frontend-studio",
       "source": "./",
       "description": "Design and build polished frontends (BUILD, REDESIGN, REVIEW) with browser-backed verification",
-      "version": "0.1.0",
+      "version": "0.1.1",
       "license": "MIT",
       "keywords": [
         "frontend",
