@@ -1,12 +1,13 @@
 {
   "name": "frontend-studio",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Design and build polished frontends (BUILD, REDESIGN, REVIEW) with browser-backed verification",
   "author": {
     "name": "José Coelho",
     "url": "https://github.com/jcoelho93"
   },
   "homepage": "https://github.com/jcoelho93/frontend-studio",
+  "documentationUrl": "https://github.com/jcoelho93/frontend-studio#readme",
   "repository": "https://github.com/jcoelho93/frontend-studio",
   "license": "MIT",
   "keywords": [

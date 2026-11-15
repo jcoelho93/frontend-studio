@@ -5,12 +5,13 @@
     "name": "José Coelho",
     "url": "https://github.com/jcoelho93"
   },
+  "description": "Claude Code plugins by José Coelho for designing, building and reviewing polished frontends.",
   "plugins": [
     {
       "name": "frontend-studio",
       "source": "./",
       "description": "Design and build polished frontends (BUILD, REDESIGN, REVIEW) with browser-backed verification",
-      "version": "0.1.1",
+      "version": "0.1.2",
       "license": "MIT",
       "keywords": [
         "frontend",
