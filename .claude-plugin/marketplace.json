@@ -1,0 +1,26 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "jcoelho-plugins",
+  "owner": {
+    "name": "José Coelho",
+    "url": "https://github.com/jcoelho93"
+  },
+  "plugins": [
+    {
+      "name": "frontend-studio",
+      "source": "./",
+      "description": "Design and build polished frontends (BUILD, REDESIGN, REVIEW) with browser-backed verification",
+      "version": "0.1.0",
+      "license": "MIT",
+      "keywords": [
+        "frontend",
+        "design",
+        "accessibility",
+        "responsive",
+        "playwright",
+        "ui-review"
+      ],
+      "category": "development"
+    }
+  ]
+}

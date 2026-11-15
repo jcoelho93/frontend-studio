@@ -1,0 +1,9 @@
+node_modules/
+.DS_Store
+# inspect.mjs output
+*.log
+report.json
+w390.png
+w768.png
+w1440.png
+.claude/settings.local.json
